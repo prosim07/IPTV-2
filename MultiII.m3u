@@ -1,0 +1,300 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera (1080p)
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Arabic (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="AlArabyTV.qa@SD" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="News",Al Araby TV (1080p)
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabyTV2.qa@SD" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="News",Al Araby TV 2 (1080p)
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTArabic.ru" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="News",RT Arabic (1080p) [Geo-blocked]
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News",Sky News Arabia (1080p) [Not 24/7]
+https://stream.skynewsarabia.com/ott/ott.m3u8
+#EXTINF:-1 tvg-id="RoyaTV.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV (1080p) [Not 24/7]
+https://royatv-live.daioncdn.net/royatv/royatv.m3u8
+#EXTINF:-1 tvg-id="JordanTV.jo" tvg-logo="https://i.imgur.com/0XozB5N.png" group-title="General",Jordan Satellite Channel (1080p)
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="JordanSport.jo@SD" tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="Sports",Jordan Sport (1080p) [Geo-blocked]
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 tvg-id="AmmanTV.jo" tvg-logo="https://i.imgur.com/5l7kw0b.png" group-title="General",Amman TV (720p)
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1 tvg-id="AlMamlakaTV.jo@SD" tvg-logo="https://i.imgur.com/UeTseMV.png" group-title="News",Al Mamlaka TV (1080p)
+https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.alsharqiya.com/Content/admin-assets/uploads/lives/191968_image_824949_image_Sharqiya_News_logo.png" ,الشرقية الإخبارية
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" ,تلفزيون سوريا
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks.m3u8
+#EXTINF:-1 tvg-id="SunnaTV.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png" ,السنة النبوية
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-logo="https://nowcdn.asharq.com/200x0/15115670301691498834.png" ,الشرق الوثائقية
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://asharqdiscovery.com/assets/images/asharq-discover-logo.svg" , الشرق Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/e1/ef/small_53b7c7a2b69889bee24a1a80f5c036878ce1d5ad.jpg" , الشارقة القرآن الكريم
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil//sharjahtvquranpublish/shqurantv_source/chunks.m3u8
+#EXTINF:-1 tvg-id="MakkahTV.sa@SD" tvg-logo="https://i.postimg.cc/GtN8v94c/makkahtv.png" group-title="Religious",Makkah TV (576p)
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC1Egypt.eg@HD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1 Egypt (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+#EXTINF:-1 tvg-id="MBC1USA.us@SD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1 USA (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
+#EXTINF:-1 tvg-id="MBC3USA.us@SD" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 3 USA (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 tvg-id="MBC4.ae@SD" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="Entertainment",MBC 4 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 tvg-id="MBC5.ae@SD" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="Family",MBC 5 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Movies",MBC Bollywood (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 tvg-id="MBCDramaUSA.us@SD" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="Series",MBC Drama USA (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+#EXTINF:-1 tvg-id="MBCIraq.iq@SD" tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="General",MBC Iraq (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr2.eg@SD" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="General",MBC Masr 2 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasrDrama.sa@SD" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="Series",MBC Masr Drama (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasrUSA.us@SD" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="General",MBC Masr USA (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
+#EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="Movies",MBC+ Drama (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 tvg-id="AlRayyanTV.qa@SD" tvg-logo="https://i.imgur.com/Ts3RjTV.png" group-title="General",Al Rayyan (1080p)
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="SyriaTV.sy@SD" tvg-logo="https://i.postimg.cc/5thv6b7c/syriatv.png" group-title="News",Syria TV (1080p)
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision.qa@SD" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="General",Qatar Television (1080p)
+https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RedTVLebanon.lb@HD" tvg-logo="https://i.imgur.com/bWwY885.png" group-title="News",Red TV Lebanon (1080p)
+https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FutureTV.lb@SD" tvg-logo="https://i.postimg.cc/43Ww9bQV/futuretv.png" group-title="General",Future TV (1080p)
+https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="IqraaArabic.sa@SD" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Religious",Iqraa Arabic (1080p) [Not 24/7]
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+#EXTINF:-1 tvg-id="PalestineMubasher.ps@SD" tvg-logo="https://i.imgur.com/68llVTZ.png" group-title="General" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Mubasher (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
+#EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps@SD" tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="General" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://pbc.furrera.ps/palestinehd/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN  SPORTS NEWS 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS NEWS 4k
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936482
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS GLOBAL 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS GLOBAL 4k
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936483
+#EXTINF:-1 tvg-ID="beinseries1ar.qa" tvg-name="BEIN  SPORTS 1 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 1 4K
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/192818
+#EXTINF:-1 tvg-ID="beinsports2ar.qa" tvg-name="BEIN  SPORTS 2 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 2 4K
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193636
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN  SPORTS 3 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 3 4K
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193637
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS 4 4K
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193638
+#EXTINF:-1 tvg-ID="beinsports5ar.qa" tvg-name="BEIN SPORTS 5 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS 5 4K
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193639
+#EXTINF:-1 tvg-ID="beinsports6ar.qa" tvg-name="BEIN SPORTS 6 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS 6 4K
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193640
+#EXTINF:-1 tvg-ID="beinsports7ar.qa" tvg-name="BEIN SPORTS 7 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS 7 4K
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193641
+#EXTINF:-1 tvg-ID="beinsports1premiumar.qa" tvg-name="BEIN  SPORTS 8 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 8 4K
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193642
+#EXTINF:-1 tvg-ID="beinsports2premiumar.qa" tvg-name="BEIN  SPORTS 9 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 9 4K
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193643
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN  SPORTS 1 4k FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 1 4k FR
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936484
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN  SPORTS 2 4k FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 2 4k FR
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936485
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN  SPORTS 3 4k FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 3 4k FR
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936486
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN  SPORTS 1 4k EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 1 4k EN
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936487
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN  SPORTS 2 4k EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 2 4k EN
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936488
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS  3 4k EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS  3 4k EN
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936489
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN  SPORTS NEWS HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS NEWS HEVC
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936503
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN  SPORTS GLOBAL HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS GLOBAL HEVC
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936502
+#EXTINF:-1 tvg-ID="beinsports1ar.qa" tvg-name="BEIN  SPORTS 1 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 1 HEVC
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/83616
+#EXTINF:-1 tvg-ID="beinsports2ar.qa" tvg-name="BEIN  SPORTS 2 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 2 HEVC
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/83615
+#EXTINF:-1 tvg-ID="beinsports3ar.qa" tvg-name="BEIN  SPORTS 3 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 3 HEVC
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/83614
+#EXTINF:-1 tvg-ID="beinsports4kar.qa" tvg-name="BEIN  SPORTS 4 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 4 HEVC
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/83613
+#EXTINF:-1 tvg-ID="beinsports5ar.qa" tvg-name="BEIN  SPORTS 5 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 5 HEVC
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/83612
+#EXTINF:-1 tvg-ID="beinsports6ar.qa" tvg-name="BEIN  SPORTS 6 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 6 HEVC
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/83611
+#EXTINF:-1 tvg-ID="beinsports7ar.qa" tvg-name="BEIN  SPORTS 7 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 7 HEVC
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/83610
+#EXTINF:-1 tvg-ID="beinsports1premiumar.qa" tvg-name="BEIN  SPORTS 8 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 8 HEVC
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/121347
+#EXTINF:-1 tvg-ID="beinsports2premiumar.qa" tvg-name="BEIN  SPORTS 9 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 9 HEVC
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/83608
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN  SPORTS 1 HEVC FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 1 HEVC FR
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936504
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN  SPORTS 2 HEVC FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 2 HEVC FR
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936505
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN  SPORTS 3 HEVC FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 3 HEVC FR
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936506
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN  SPORTS 1 HEVC EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 1 HEVC EN
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936507
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN  SPORTS 2 HEVC EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 2 HEVC EN
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936508
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS  3 HEVC EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN SPORTS  3 HEVC EN
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936509
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Movies HD 1 Premiere" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/BEIN-MOVIES-1-PREMIERE.png" group-title="AR- BEIN MOVIES",AR- BEIN Movies HD 1 Premiere
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937081
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Movies HD 2 Action" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/BEIN-MOVIES-2-ACTION.png" group-title="AR- BEIN MOVIES",AR- BEIN Movies HD 2 Action
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937080
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Movies HD 3 Drama" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/BEIN-MOVIES-DRAMA-3.png" group-title="AR- BEIN MOVIES",AR- BEIN Movies HD 3 Drama
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937079
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Movies HD 4 Family" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/BEIN-MOVIES-4-FAMILY.png" group-title="AR- BEIN MOVIES",AR- BEIN Movies HD 4 Family
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937078
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Series 1 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/BEIN-SERIES-HD-1.png" group-title="AR- BEIN SERIES",AR- BEIN Series 1 HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937087
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Series 2 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/BEIN-SERIES-HD-2.png" group-title="AR- BEIN SERIES",AR- BEIN Series 2 HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937086
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Star Action HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/STAR-FILM.png" group-title="AR- BEIN SERIES",AR- BEIN Star Action HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937085
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Star Movies HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="AR- BEIN SERIES",AR- BEIN Star Movies HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937084
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Fox Life HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/BEIN-FOX-LIFE.png" group-title="AR- BEIN SERIES",AR- BEIN Fox Life HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937083
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN AMC HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/amchd.png" group-title="AR- BEIN SERIES",AR- BEIN AMC HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937082
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Junior HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/BEIN-JUNIOR-KIDS.png" group-title="AR- BEIN KIDS",AR- BEIN Junior HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937100
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Dkids" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/MAJID-KIDS-HD.png" group-title="AR- BEIN KIDS",AR- BEIN Dkids
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937099
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Cartoon Network HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cartoonnetworkhdtc.png" group-title="AR- BEIN KIDS",AR- BEIN Cartoon Network HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937098
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Boomerang HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/boomeranghd.png" group-title="AR- BEIN KIDS",AR- BEIN Boomerang HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937097
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN DreamWorks HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/DREAMWORKS.png" group-title="AR- BEIN KIDS",AR- BEIN DreamWorks HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937096
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Jeem HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/jeemtv.png" group-title="AR- BEIN KIDS",AR- BEIN Jeem HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937095
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Baraem" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/baraemeurope.png" group-title="AR- BEIN KIDS",AR- BEIN Baraem
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937094
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Gourmet HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/BEIN-GOURMET-HD.png" group-title="AR- BEIN LIFESTYLE",AR- BEIN Gourmet HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937093
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Fatafeat HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/fatafeathd.jpg" group-title="AR- BEIN LIFESTYLE",AR- BEIN Fatafeat HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937092
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Discovery Family HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/BEIN-DISCOVERY-FAMILY.png" group-title="AR- BEIN LIFESTYLE",AR- BEIN Discovery Family HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937091
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN Outdoor HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/outdoorhd.png" group-title="AR- BEIN LIFESTYLE",AR- BEIN Outdoor HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937090
+#EXTINF:-1 tvg-ID="" tvg-name="AR- BEIN HGTV HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/BEIN-HGTV.png" group-title="AR- BEIN LIFESTYLE",AR- BEIN HGTV HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1937089
+
+#EXTINF:-1 tvg-ID="" tvg-name="AR- Jordan Al Mamlaka" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoP5soDmR1z38-Spu6wif0X3E3TN-zqIYveQ&s" group-title="AR- JORDAN  الاردن",AR- Jordan Al Mamlaka
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/938229
+#EXTINF:-1 tvg-ID="" tvg-name="AR- Jordan Amman TV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/2a/8a/422a8a15-43e4-250b-bc1a-7b6ea94db663/AmmanTV-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x600wa.png" group-title="AR- JORDAN  الاردن",AR- Jordan Amman TV
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/938230
+#EXTINF:-1 tvg-ID="" tvg-name="AR- Jordan Roya TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/jordanhd.jpg" group-title="AR- JORDAN  الاردن",AR- Jordan Roya TV
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/938234
+#EXTINF:-1 tvg-ID="" tvg-name="AR- Jordan Sport" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/jordansport.jpg" group-title="AR- JORDAN  الاردن",AR- Jordan Sport
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/938235
+#EXTINF:-1 tvg-ID="" tvg-name="AR- Jordan Sport (BK)" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/jordansport.jpg" group-title="AR- JORDAN  الاردن",AR- Jordan Sport (BK)
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/938236
+#EXTINF:-1 tvg-ID="" tvg-name="AR- Jordan TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/jordantv.png" group-title="AR- JORDAN  الاردن",AR- Jordan TV
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/938237
+
+#EXTINF:-1 tvg-ID="" tvg-name="SHAHID VIP SPORTS 1 HD" tvg-logo="" group-title="AR- SHAHID VIP SPORTS",SHAHID VIP SPORTS 1 HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1845687
+#EXTINF:-1 tvg-ID="" tvg-name="SHAHID VIP SPORTS 2 HD" tvg-logo="" group-title="AR- SHAHID VIP SPORTS",SHAHID VIP SPORTS 2 HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1845686
+#EXTINF:-1 tvg-ID="" tvg-name="SHAHID VIP SPORTS 3 HD" tvg-logo="" group-title="AR- SHAHID VIP SPORTS",SHAHID VIP SPORTS 3 HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1845685
+#EXTINF:-1 tvg-ID="" tvg-name="SHAHID VIP SPORTS 4 HD" tvg-logo="" group-title="AR- SHAHID VIP SPORTS",SHAHID VIP SPORTS 4 HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1845684
+#EXTINF:-1 tvg-ID="" tvg-name="SHAHID VIP SPORTS 5 HD" tvg-logo="" group-title="AR- SHAHID VIP SPORTS",SHAHID VIP SPORTS 5 HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1845683
+#EXTINF:-1 tvg-ID="" tvg-name="SHAHID VIP SPORTS 6 HD" tvg-logo="" group-title="AR- SHAHID VIP SPORTS",SHAHID VIP SPORTS 6 HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1845682
+#EXTINF:-1 tvg-ID="" tvg-name="SHAHID VIP SPORTS 7 HD" tvg-logo="" group-title="AR- SHAHID VIP SPORTS",SHAHID VIP SPORTS 7 HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1845681
+#EXTINF:-1 tvg-ID="" tvg-name="SHAHID VIP SPORTS 8 HD" tvg-logo="" group-title="AR- SHAHID VIP SPORTS",SHAHID VIP SPORTS 8 HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1845680
+#EXTINF:-1 tvg-ID="" tvg-name="SHAHID VIP SPORTS 9 HD" tvg-logo="" group-title="AR- SHAHID VIP SPORTS",SHAHID VIP SPORTS 9 HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1845679
+#EXTINF:-1 tvg-ID="" tvg-name="SHAHID VIP SPORTS 10 HD" tvg-logo="" group-title="AR- SHAHID VIP SPORTS",SHAHID VIP SPORTS 10 HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1845678
+#EXTINF:-1 tvg-ID="" tvg-name="SHAHID VIP SPORTS 11 HD" tvg-logo="" group-title="AR- SHAHID VIP SPORTS",SHAHID VIP SPORTS 11 HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1845677
+#EXTINF:-1 tvg-ID="" tvg-name="SHAHID VIP SPORTS 12 HD" tvg-logo="" group-title="AR- SHAHID VIP SPORTS",SHAHID VIP SPORTS 12 HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1845676
+
+#EXTINF:-1 tvg-ID="" tvg-name="بث مباشر _ قناة السنة النبوية Madinah Live HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",بث مباشر _ قناة السنة النبوية Madinah Live HD
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720439
+#EXTINF:-1 tvg-ID="" tvg-name="بث مباشر _ قناة السنة النبوية Madinah Live HD 2" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",بث مباشر _ قناة السنة النبوية Madinah Live HD 2
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720438
+#EXTINF:-1 tvg-ID="" tvg-name="‫قناة+القران الكريم 24/7‬" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",‫قناة+القران الكريم 24/7‬
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720408
+#EXTINF:-1 tvg-ID="" tvg-name="‫قناة+القران الكريم 24/7‬ 2" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",‫قناة+القران الكريم 24/7‬ 2
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720420
+#EXTINF:-1 tvg-ID="" tvg-name="‫قناة+القران الكريم 24/7‬ 3" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",‫قناة+القران الكريم 24/7‬ 3
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720407
+#EXTINF:-1 tvg-ID="" tvg-name="اسلام صبحي تلاوات هادئة - سور يوسف الكهف يس الواقعة" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",اسلام صبحي تلاوات هادئة - سور يوسف الكهف يس الواقعة
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720461
+#EXTINF:-1 tvg-ID="" tvg-name="اسلام صبحي سورة الكهف تلاوة هادئة تريح الاعصاب" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",اسلام صبحي سورة الكهف تلاوة هادئة تريح الاعصاب
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720460
+#EXTINF:-1 tvg-ID="" tvg-name="الرقية الشرعية كاملة مكتوبة ومكررة للقارئ اسلام صبحي" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",الرقية الشرعية كاملة مكتوبة ومكررة للقارئ اسلام صبحي
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720455
+#EXTINF:-1 tvg-ID="" tvg-name="القارئ اسلام صبحي - سورة يس كاملة" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",القارئ اسلام صبحي - سورة يس كاملة
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720454
+#EXTINF:-1 tvg-ID="" tvg-name="القرآن الكريم كاملآ بصوت القارئ فارس عباد" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",القرآن الكريم كاملآ بصوت القارئ فارس عباد
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720450
+#EXTINF:-1 tvg-ID="" tvg-name="القرآن الكريم كامل الشيخ عبد الباسط عبد الصمد" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",القرآن الكريم كامل الشيخ عبد الباسط عبد الصمد
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720453
+#EXTINF:-1 tvg-ID="" tvg-name="القرآن الكريم كاملا للشيخ إدريس أبكر (3-1)" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",القرآن الكريم كاملا للشيخ إدريس أبكر (3-1)
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720449
+#EXTINF:-1 tvg-ID="" tvg-name="القرآن الكريم كامل بصوت الشيخ نورين محمد صديق السوداني" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",القرآن الكريم كامل بصوت الشيخ نورين محمد صديق السوداني
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720452
+#EXTINF:-1 tvg-ID="" tvg-name="القرآن الكريم كامل بصوت علي الحذيفي" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",القرآن الكريم كامل بصوت علي الحذيفي
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720451
+#EXTINF:-1 tvg-ID="" tvg-name="القران الكريم كاملا بصوت الشيخ عبدالرحمن السديس" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",القران الكريم كاملا بصوت الشيخ عبدالرحمن السديس
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720445
+#EXTINF:-1 tvg-ID="" tvg-name="القران الكريم كامل بصوت الشيخ ياسر الدوسري" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",القران الكريم كامل بصوت الشيخ ياسر الدوسري
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720448
+#EXTINF:-1 tvg-ID="" tvg-name="القران الكريم كامل بصوت فارس عباد" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",القران الكريم كامل بصوت فارس عباد
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720447
+#EXTINF:-1 tvg-ID="" tvg-name="القران الكريم كامل بصوت فارس عباد2" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",القران الكريم كامل بصوت فارس عباد2
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720446
+#EXTINF:-1 tvg-ID="" tvg-name="القرآن الكريم كامل بصوت الشيخ ماهر المعيقلي" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",القرآن الكريم كامل بصوت الشيخ ماهر المعيقلي
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720444
+#EXTINF:-1 tvg-ID="" tvg-name="القرآن كاملا بصوت مشارى بن راشد العفاسي" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",القرآن كاملا بصوت مشارى بن راشد العفاسي
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720443
+#EXTINF:-1 tvg-ID="" tvg-name="المصحف كامل - الشيخ علي جابر رحمه الله" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",المصحف كامل - الشيخ علي جابر رحمه الله
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720442
+#EXTINF:-1 tvg-ID="" tvg-name="المصحف كامل بصوت الشيخ احمد النفيس" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",المصحف كامل بصوت الشيخ احمد النفيس
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720441
+#EXTINF:-1 tvg-ID="" tvg-name="تلاوة بصوت عبدالرحمن مسعد _3" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",تلاوة بصوت عبدالرحمن مسعد _3
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720435
+#EXTINF:-1 tvg-ID="" tvg-name="رقية قبل النوم-- القارئ محمد هشام" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",رقية قبل النوم-- القارئ محمد هشام
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720433
+#EXTINF:-1 tvg-ID="" tvg-name="رقية للبيت سورة البقرة، يس، الواقعة، الرحمن، الملك" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",رقية للبيت سورة البقرة، يس، الواقعة، الرحمن، الملك
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720432
+#EXTINF:-1 tvg-ID="" tvg-name="سورة البقرة _ يس _ الرحمن _ الواقعة _ الملك _ الدعاء الجامع#علاء_عقل" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",سورة البقرة _ يس _ الرحمن _ الواقعة _ الملك _ الدعاء الجامع#علاء_عقل
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720434
+#EXTINF:-1 tvg-ID="" tvg-name="سورة البقرة لحفظ وتحصين المنزل - بصوت الشيخ ماهر المعيقلي" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",سورة البقرة لحفظ وتحصين المنزل - بصوت الشيخ ماهر المعيقلي
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720430
+#EXTINF:-1 tvg-ID="" tvg-name="سورة الكهف كاملة للشيخ ماهر المعيقلي" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",سورة الكهف كاملة للشيخ ماهر المعيقلي
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720428
+#EXTINF:-1 tvg-ID="" tvg-name="سورة الواقعة كاملة  القارئ هزاع البلوشي" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",سورة الواقعة كاملة  القارئ هزاع البلوشي
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720426
+#EXTINF:-1 tvg-ID="" tvg-name="سورة  للقارئ هزاع البلوشي" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",سورة  للقارئ هزاع البلوشي
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720425
+#EXTINF:-1 tvg-ID="" tvg-name="عبد العزيز_سحيم #سورة_يوسف_مريم_الفرقان_القيامه" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",عبد العزيز_سحيم #سورة_يوسف_مريم_الفرقان_القيامه
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720470
+#EXTINF:-1 tvg-ID="" tvg-name="عبد العزيز_سحيم #سورة_يوسف_مريم_الفرقان_القيامه" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",عبد العزيز_سحيم #سورة_يوسف_مريم_الفرقان_القيامه
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720471
+#EXTINF:-1 tvg-ID="" tvg-name="#علاء_عقل #سورة البقرة كاملة وجزء تبارك وجزء عم-رقية للبيت, وعلاج للسحر" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",#علاء_عقل #سورة البقرة كاملة وجزء تبارك وجزء عم-رقية للبيت, وعلاج للسحر
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720431
+#EXTINF:-1 tvg-ID="" tvg-name="29 March 2023.   القرآن الكريم كاملًا" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QURAN-TV.png" group-title="AR- QURAN قران",29 March 2023.   القرآن الكريم كاملًا
+http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/1720468
