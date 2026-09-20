@@ -84,6 +84,67 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN 1 (F) 4K" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp" group-title="AR l beIN 4K",beIN 1 (F) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlZW1VeG9BamFONmJYMzBFbjRlVDVsaDN3TnYwZFJtbHJHUCs1T0tHbm9Eag
+#EXTINF:-1 tvg-id="" tvg-name="beIN 1 (S) 4K" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp" group-title="AR l beIN 4K",beIN 1 (S) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlUUJlakc4SERaUzBwTW5vRW1lK010QW1PbDR0ZXVOdm95ajBybDBoRTRsVA
+#EXTINF:-1 tvg-id="" tvg-name="beIN 1 (AP) 4K" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png" group-title="AR l beIN 4K",beIN 1 (AP) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlWldoeTlKYWFSVGd6WlphTUYzYy9DS3pRcE5Qc0VpTXIzTjVXbXdQdDRsKw
+#EXTINF:-1 tvg-id="" tvg-name="beIN 2 (F) 4K" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-25584.logowik.com.webp" group-title="AR l beIN 4K",beIN 2 (F) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlUWF5anJSZjE3bUFteWF5WmYyclB5dlVqOVBTT1VldXdsRUdkdnlZZzY1Kw
+#EXTINF:-1 tvg-id="" tvg-name="beIN 2 (S) 4K" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-25584.logowik.com.webp" group-title="AR l beIN 4K",beIN 2 (S) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlWUo1ZFBJU1JuaHZ4VVJiQ3lwZmE4dEZoNjc0bW1qbzYySVJQc0lIYmhEYQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN 2 (AP) 4K" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" group-title="AR l beIN 4K",beIN 2 (AP) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlU0lTVnozMUlIbzNiVUNxZm1wQUxBRnZTQUVDL1MyL1RqK2M5WS9YWldTYQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN 3 (F) 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBg8TSANMd26tPS_dStG0Gu791TKeX-fCWg&s" group-title="AR l beIN 4K",beIN 3 (F) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlYUF2UENUeklIdzlwTTdsRXZETGMybUIyUHpoVGJtNkk5ejY2MjZpREEwSA
+#EXTINF:-1 tvg-id="" tvg-name="beIN 3 (S) 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBg8TSANMd26tPS_dStG0Gu791TKeX-fCWg&s" group-title="AR l beIN 4K",beIN 3 (S) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlWHlHVk5oMHB5Ym54WVhiMysyYkpJZm0zS1VyWkRDRjFRblN2N3lsN1Rrdg
+#EXTINF:-1 tvg-id="" tvg-name="beIN 3 (AP) 4K" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-3-logo-png_seeklogo-481585.png" group-title="AR l beIN 4K",beIN 3 (AP) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlYzFkSFlUQ3JaZncveWl0bkp5TldqNisxZ1c1cnNxS1VERVpldk8rUW1JbQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN 4 (F) 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXOiACoQ2dHix8cDz5vrElUS_R74rid7G6gA&s" group-title="AR l beIN 4K",beIN 4 (F) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlVGhieWpSczdHZ0lJQXlaemlQdDJXTXdGMUxnSVF5cC92MHY3czdiL09Ndg
+#EXTINF:-1 tvg-id="" tvg-name="beIN 4 (S) 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXOiACoQ2dHix8cDz5vrElUS_R74rid7G6gA&s" group-title="AR l beIN 4K",beIN 4 (S) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlWEFPQ09xYmg0aHFHUldUZmlBWXFTMFE2SzJJUHNEU0lNaUYzcmFiYzJiZA
+#EXTINF:-1 tvg-id="" tvg-name="beIN 4 (AP) 4K" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_bein_sports_4.png" group-title="AR l beIN 4K",beIN 4 (AP) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlZG95NnlZTXB3T0tCNjBsdThUMk1DaTJrZ2lZaHYzTEI5UUNxaU1kRElFRA
+#EXTINF:-1 tvg-id="" tvg-name="beIN 5 (F) 4K" tvg-logo="https://i.ibb.co/QNQ4TnJ/dsds.png" group-title="AR l beIN 4K",beIN 5 (F) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlYXJqQlI4bFNTRlVhZE84eDdoZXVLMUxadnB4NlN1YW0vVVF0RlhLMi9qKw
+#EXTINF:-1 tvg-id="" tvg-name="beIN 5 (S) 4K" tvg-logo="https://i.ibb.co/QNQ4TnJ/dsds.png" group-title="AR l beIN 4K",beIN 5 (S) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlUURFOTVJR0s3ZlR2TCtVTVk3WWtUTEpUaEUvbmNzQUI0WDAyay9POGFJag
+#EXTINF:-1 tvg-id="" tvg-name="beIN 5 (AP) 4K" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_bein_sports_5.png" group-title="AR l beIN 4K",beIN 5 (AP) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlZWJkYzdOanVGZWlNem9IMWZsSGN0enhQdEZyMHpjYXJxSzBTRGtTZGxERQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN 6 (F) 4K" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BEIN6.png.webp" group-title="AR l beIN 4K",beIN 6 (F) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlUkNydXZQWXF1SlpFa1l6RUNZUlZLZGxyM3RYckZaSThLR0thODhKR3hPQg
+#EXTINF:-1 tvg-id="" tvg-name="beIN 6 (S) 4K" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BEIN6.png.webp" group-title="AR l beIN 4K",beIN 6 (S) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlYzBhSW5od0tlSHlOalJUN1ozQWxORmxtczFkckZmZ2gxNHlTN2tocXNRbQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN 6 (AP) 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logo_bein_sports_6.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20260526062448" group-title="AR l beIN 4K",beIN 6 (AP) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlZVBTcnlESUdrb3JMY0I5Ym9oWEhlTE0yUldlVUhUd0RzZmlxSkllTDNJMw
+#EXTINF:-1 tvg-id="" tvg-name="beIN 7 (F) 4K" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2024/05/beIN_SPORTS7_Mono.png" group-title="AR l beIN 4K",beIN 7 (F) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlZG5INDlqMmZiZHQ1YnBTOU5DL2xjSGdWOXJtczAxdTFKa1Nza2JMcmwzbw
+#EXTINF:-1 tvg-id="" tvg-name="beIN 7 (S) 4K" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2024/05/beIN_SPORTS7_Mono.png" group-title="AR l beIN 4K",beIN 7 (S) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlWVFPWThxQjlpZWRsKzJmTC9HTkJMQnhPSjNGOCs0VWRvVE9sYzlvSXIrVA
+#EXTINF:-1 tvg-id="" tvg-name="beIN 7 (AP) 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_bein_sports_7.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20260526062448" group-title="AR l beIN 4K",beIN 7 (AP) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlUjZkeVNwQkIvN2E1dWZjb0dTbm5LdnM5NzYwWVJnRGN0L012aERmWDRwRA
+#EXTINF:-1 tvg-id="" tvg-name="beIN 8 (F) 4K" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/09/bein-sports-8-full.png" group-title="AR l beIN 4K",beIN 8 (F) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlYnljQXZWUHl5NUFGRlhVamhiMDdMbU1rblRidkVZbCtEYVp3WVNzMllWdA
+#EXTINF:-1 tvg-id="" tvg-name="beIN 8 (AP) 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_bein_sports_8.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20260526062448" group-title="AR l beIN 4K",beIN 8 (AP) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlZFlwTmNPT0xnR0s2NkR4Z1JibFRuRllRdDdSNmFvaEVIUDlvYWdtTUx1TQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN 8 (S) 4K" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/09/bein-sports-8-full.png" group-title="AR l beIN 4K",beIN 8 (S) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlWTFtUEVvR2ZrN0N6Um5PUS9tZEdmN1hMWmF2b0crSGprYjVYd0d4Rjg5bw
+#EXTINF:-1 tvg-id="" tvg-name="beIN 9 (F) 4K" tvg-logo="https://i.ibb.co/8bK1bWK/Logo-Beinsports-9-MAX.png" group-title="AR l beIN 4K",beIN 9 (F) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlYWZ3bHVjMUlScUl5YXh6NFhpdklWS0lMdndoVFZFZm1IMzhwS3luZW5NSA
+#EXTINF:-1 tvg-id="" tvg-name="beIN 9 (S) 4K" tvg-logo="https://i.ibb.co/8bK1bWK/Logo-Beinsports-9-MAX.png" group-title="AR l beIN 4K",beIN 9 (S) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlYUFEM3hpQkl4NWwySU1MMzE2RldNTlpsUGRodGFQTlkwRktYSDYybk5lVw
+#EXTINF:-1 tvg-id="" tvg-name="beIN 9 (AP) 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_bein_sports_9.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20260526062451" group-title="AR l beIN 4K",beIN 9 (AP) 4K
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlV2pwZzU2U0R4WnpGWEZ4WElpZlNzaGlzSUtlUEV1eTFzQVFVM3JKYzZNcQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN  Extra 1" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="AR l beIN 4K",beIN  Extra 1
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlUUZPWmgzSHQvL0JUSUJjc2lJZUtwdjNjVWMyUUZKeW9YSVBkWFRlcnFPZA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Extra 2" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2024/05/beIN_SPORTS_XTRA_2_Mono.png" group-title="AR l beIN 4K",beIN Extra 2
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlUkU2NUpDM1NaQ3ZWbkxmQ0pKb2w5RGxFT3UxZWZxWWIvcmZrcjNVMVJKZQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN Extra 3" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/09/beIN_SPORTS_XTRA-3-02.png" group-title="AR l beIN 4K",beIN Extra 3
+http://halive.cc:8080/aDYzRVJJNTlNcnAxbG56dDU2QzFlZElOUldyMUhtZTQ4TjdRdjNvV2I0YzB3ZUFoaVczcEZSZks0QnNRTU1lTw
+
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN  SPORTS NEWS 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS NEWS 4k
 http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936482
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS GLOBAL 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS GLOBAL 4k
