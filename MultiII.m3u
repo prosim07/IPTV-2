@@ -1,10 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="l ⭐ قناة مرايا" tvg-logo="https://i.postimg.cc/zX6bKqRp/ezgif-1723686982413a.png" group-title="SHAHID VIP - ديجيتال",l ⭐ قناة مرايا
-http://vlgf9.top:80/live/2650884238/9336946294/547155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="l ⭐ قناة الكبير أوي" tvg-logo="https://i.postimg.cc/4xGKBBBh/ezgif-195e9a0d54a6e2.png" group-title="SHAHID VIP - ديجيتال",l ⭐ قناة الكبير أوي
-http://vlgf9.top:80/live/2650884238/9336946294/548574.m3u8
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS UHD",┃AR┃ BEIN SPORTS 1 UHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798772&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="l ⭐ قناة الكبير أوي" tvg-logo="https://i.postimg.cc/4xGKBBBh/ezgif-195e9a0d54a6e2.png" group-title="SHAHID VIP - ديجيتال",l ⭐ قناة الكبير أوي
+http://vlgf9.top:80/live/2650884238/9336946294/548574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="l ⭐ قناة مرايا" tvg-logo="https://i.postimg.cc/zX6bKqRp/ezgif-1723686982413a.png" group-title="SHAHID VIP - ديجيتال",l ⭐ قناة مرايا
+http://vlgf9.top:80/live/2650884238/9336946294/547155.m3u8
+
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera (1080p)
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="DW.de@Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Arabic (1080p)
