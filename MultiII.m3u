@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="l ⭐ قناة الكبير أوي" tvg-logo="https://i.postimg.cc/4xGKBBBh/ezgif-195e9a0d54a6e2.png" group-title="SHAHID VIP - ديجيتال",l ⭐ قناة الكبير أوي
-http://vlgf9.top:80/live/2650884238/9336946294/548574.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="l ⭐ قناة مرايا" tvg-logo="https://i.postimg.cc/zX6bKqRp/ezgif-1723686982413a.png" group-title="SHAHID VIP - ديجيتال",l ⭐ قناة مرايا
-http://vlgf9.top:80/live/2650884238/9336946294/547155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROYA TV" tvg-logo="https://i.postimg.cc/DwjmMr13/Royatv.png" group-title="✅ JORDAN | الاردن",ROYA TV
-http://vlgf9.top:80/live/2650884238/9336946294/581010.m3u8
-
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera (1080p)
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="DW.de@Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Arabic (1080p)
@@ -83,6 +76,15 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps@SD" tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="General" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="l ⭐ قناة الكبير أوي" tvg-logo="https://i.postimg.cc/4xGKBBBh/ezgif-195e9a0d54a6e2.png" group-title="SHAHID VIP - ديجيتال",l ⭐ قناة الكبير أوي
+http://vlgf9.top:80/live/2650884238/9336946294/548574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="l ⭐ قناة مرايا" tvg-logo="https://i.postimg.cc/zX6bKqRp/ezgif-1723686982413a.png" group-title="SHAHID VIP - ديجيتال",l ⭐ قناة مرايا
+http://vlgf9.top:80/live/2650884238/9336946294/547155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROYA TV" tvg-logo="https://i.postimg.cc/DwjmMr13/Royatv.png" group-title="✅ JORDAN | الاردن",ROYA TV
+http://vlgf9.top:80/live/2650884238/9336946294/581010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALMAMLAKA TV 4K" tvg-logo="https://i.postimg.cc/26CZSwGK/logo-1.png" group-title="✅ JORDAN | الاردن",ALMAMLAKA TV 4K
+http://vlgf9.top:80/live/2650884238/9336946294/581022.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS 4K" tvg-logo="https://i.postimg.cc/26GPzG5y/ezgif-4-b96e65f7ab.png" group-title="✅ BEIN SPORTS 4K ⚽ بي إن",BEIN SPORTS NEWS 4K
 http://vlgf9.top:80/live/2650884238/9336946294/483487.m3u8
@@ -245,3 +247,87 @@ http://vlgf9.top:80/live/2650884238/9336946294/536084.m3u8
 http://vlgf9.top:80/live/2650884238/9336946294/536085.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="قناة أين هو تشيكي" tvg-logo="https://i.postimg.cc/0QMZxZXP/ezgif-5-89d73e043a.png" group-title="KIDS | باقة مرحلة قبل المدرسة ⭐",قناة أين هو تشيكي
 http://vlgf9.top:80/live/2650884238/9336946294/536086.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox+ Action HD" tvg-logo="https://i.postimg.cc/DzYtSYB2/a3d64bd94b2d0b2c949c51ed0e970f809948518d0d00f2c558ec2593a74683e7.png" group-title="FilmBox+ فيلم بوكس",FilmBox+ Action HD
+http://vlgf9.top:80/live/2650884238/9336946294/505904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox+ Comedy HD" tvg-logo="https://i.postimg.cc/bwS66NTj/271992251c02e82e90948ce15dab7f3e13b19d6b.png" group-title="FilmBox+ فيلم بوكس",FilmBox+ Comedy HD
+http://vlgf9.top:80/live/2650884238/9336946294/505905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox+ Crime HD" tvg-logo="https://i.postimg.cc/NGWbKwtJ/cbcc224bb49d216476a731635498dea8777d263f.png" group-title="FilmBox+ فيلم بوكس",FilmBox+ Crime HD
+http://vlgf9.top:80/live/2650884238/9336946294/505906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox+ Documentary HD" tvg-logo="https://i.postimg.cc/xjRTC9LY/d2abb24f9c7417ee38d65da1e321c715c8957d94.png" group-title="FilmBox+ فيلم بوكس",FilmBox+ Documentary HD
+http://vlgf9.top:80/live/2650884238/9336946294/505907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox+ Extra HD" tvg-logo="https://i.postimg.cc/g2Kfy0kk/4622f5cd64d024478ce63593e24371d40d2bdd04907dd61561df48ca2c913d40.png" group-title="FilmBox+ فيلم بوكس",FilmBox+ Extra HD
+http://vlgf9.top:80/live/2650884238/9336946294/505908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox+ Family HD" tvg-logo="https://i.postimg.cc/YqCg2nGn/9624635f52ce2283868b59f50fc2fbab02291b37a157fcef279c2c80c075e513.png" group-title="FilmBox+ فيلم بوكس",FilmBox+ Family HD
+http://vlgf9.top:80/live/2650884238/9336946294/505909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox+ French HD" tvg-logo="https://i.postimg.cc/k4MMNZdL/e7021d0d2f0e62100eff2b986788fb47c6330ca8.png" group-title="FilmBox+ فيلم بوكس",FilmBox+ French HD
+http://vlgf9.top:80/live/2650884238/9336946294/505910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox+ Premium 1 HD" tvg-logo="https://i.postimg.cc/25S8hMYM/ba8971598a65efded739f8294175e820185f63728e4ec66167083b96560b3eb8.png" group-title="FilmBox+ فيلم بوكس",FilmBox+ Premium 1 HD
+http://vlgf9.top:80/live/2650884238/9336946294/505911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox+ Premium 2 HD" tvg-logo="https://i.postimg.cc/25S8hMYM/ba8971598a65efded739f8294175e820185f63728e4ec66167083b96560b3eb8.png" group-title="FilmBox+ فيلم بوكس",FilmBox+ Premium 2 HD
+http://vlgf9.top:80/live/2650884238/9336946294/505912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox+ Stars HD" tvg-logo="https://i.postimg.cc/RZ3ghV6D/7527f5e00fe98e6ea8f7e34287b9c9c41a5930827b1f27e7cb255cd40dcd0c73.png" group-title="FilmBox+ فيلم بوكس",FilmBox+ Stars HD
+http://vlgf9.top:80/live/2650884238/9336946294/505913.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="VULTURE MOVIES 1 HD" tvg-logo="https://i.postimg.cc/J73qQtY8/لوقو_movies.png" group-title="VULTURE ENTERTEMENT - الترفيهية",VULTURE MOVIES 1 HD
+http://vlgf9.top:80/live/2650884238/9336946294/412873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VULTURE MOVIES 2 HD" tvg-logo="https://i.postimg.cc/FHw3vQCG/لوقو_movies_action_2.png" group-title="VULTURE ENTERTEMENT - الترفيهية",VULTURE MOVIES 2 HD
+http://vlgf9.top:80/live/2650884238/9336946294/412874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VULTURE MOVIES 3 HD" tvg-logo="https://i.postimg.cc/Hk88BhWM/لوقو_movies_drama_3.png" group-title="VULTURE ENTERTEMENT - الترفيهية",VULTURE MOVIES 3 HD
+http://vlgf9.top:80/live/2650884238/9336946294/412875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VULTURE MOVIES 4 HD" tvg-logo="https://i.postimg.cc/NF05TNP5/لوقو_movies_family_4.png" group-title="VULTURE ENTERTEMENT - الترفيهية",VULTURE MOVIES 4 HD
+http://vlgf9.top:80/live/2650884238/9336946294/412876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VULTURE BOX OFFICE 1 HD" tvg-logo="https://i.postimg.cc/fRvQnwbQ/box_office_فولتشر_1.png" group-title="VULTURE ENTERTEMENT - الترفيهية",VULTURE BOX OFFICE 1 HD
+http://vlgf9.top:80/live/2650884238/9336946294/412877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VULTURE BOX OFFICE 2 HD" tvg-logo="https://i.postimg.cc/wvyrvH9v/box_office_فولتشر_2.png" group-title="VULTURE ENTERTEMENT - الترفيهية",VULTURE BOX OFFICE 2 HD
+http://vlgf9.top:80/live/2650884238/9336946294/412878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VULTURE ON DEMAND 1 HD" tvg-logo="https://i.postimg.cc/zDhMYJd2/on_demand__فولتشر.png" group-title="VULTURE ENTERTEMENT - الترفيهية",VULTURE ON DEMAND 1 HD
+http://vlgf9.top:80/live/2650884238/9336946294/412879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VULTURE ON DEMAND 2 HD" tvg-logo="https://i.postimg.cc/zDhMYJd2/on_demand__فولتشر.png" group-title="VULTURE ENTERTEMENT - الترفيهية",VULTURE ON DEMAND 2 HD
+http://vlgf9.top:80/live/2650884238/9336946294/412880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VULTURE SERIES 1 HD" tvg-logo="https://i.postimg.cc/q70BybN4/لوقو_movies_series.png" group-title="VULTURE ENTERTEMENT - الترفيهية",VULTURE SERIES 1 HD
+http://vlgf9.top:80/live/2650884238/9336946294/412881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VULTURE SERIES 2 HD" tvg-logo="https://i.postimg.cc/Rhj4FXrr/لوقو_movies_series_2.png" group-title="VULTURE ENTERTEMENT - الترفيهية",VULTURE SERIES 2 HD
+http://vlgf9.top:80/live/2650884238/9336946294/412882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VULTURE DRAMA 1 HD" tvg-logo="https://i.postimg.cc/RZvVnp69/لوقو_movies_راما_1.png" group-title="VULTURE ENTERTEMENT - الترفيهية",VULTURE DRAMA 1 HD
+http://vlgf9.top:80/live/2650884238/9336946294/412883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VULTURE DRAMA 2 HD" tvg-logo="https://i.postimg.cc/65fBwVHP/لوقو_movies_دراما_2.png" group-title="VULTURE ENTERTEMENT - الترفيهية",VULTURE DRAMA 2 HD
+http://vlgf9.top:80/live/2650884238/9336946294/412884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VULTURE GOURMET 1 HD" tvg-logo="https://i.postimg.cc/RCL4cQcT/be-IN-Sports-gourmet.png" group-title="VULTURE ENTERTEMENT - الترفيهية",VULTURE GOURMET 1 HD
+http://vlgf9.top:80/live/2650884238/9336946294/412885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VULTURE GOURMET 2 HD" tvg-logo="https://i.postimg.cc/RCL4cQcT/be-IN-Sports-gourmet.png" group-title="VULTURE ENTERTEMENT - الترفيهية",VULTURE GOURMET 2 HD
+http://vlgf9.top:80/live/2650884238/9336946294/412886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA ACTION HD" tvg-logo="https://i.postimg.cc/5N038VdB/SKY-CINEMA-ACTION-June-2020.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY CINEMA ACTION HD
+http://vlgf9.top:80/live/2650884238/9336946294/501891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA ANIMATION HD" tvg-logo="https://i.postimg.cc/85W6RTTC/SKY-CINEMA-ANIMATION-June-2020.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY CINEMA ANIMATION HD
+http://vlgf9.top:80/live/2650884238/9336946294/501892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA COMEDY HD" tvg-logo="https://i.postimg.cc/dDMkDXby/SKY-CINEMA-COMEDY-June-2020.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY CINEMA COMEDY HD
+http://vlgf9.top:80/live/2650884238/9336946294/501893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA DISNEY HD" tvg-logo="https://i.postimg.cc/8Cy1j1wx/ezgif-4-bbbed43a2f.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY CINEMA DISNEY HD
+http://vlgf9.top:80/live/2650884238/9336946294/501894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA DRAMA HD" tvg-logo="https://i.postimg.cc/KjtjK61L/SKY-CINEMA-DRAMA-June-2020.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY CINEMA DRAMA HD
+http://vlgf9.top:80/live/2650884238/9336946294/501895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA FAMILY HD" tvg-logo="https://i.postimg.cc/NjCXwwmf/SKY-CINEMA-FAMILY-June-2020.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY CINEMA FAMILY HD
+http://vlgf9.top:80/live/2650884238/9336946294/501896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA GREATS HD" tvg-logo="https://i.postimg.cc/WbB3mbGZ/SKY-CINEMA-GREATS-June-2020.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY CINEMA GREATS HD
+http://vlgf9.top:80/live/2650884238/9336946294/501897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA HITS HD" tvg-logo="https://i.postimg.cc/mk6SpFLB/SKY-CINEMA-HITS-June-2020.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY CINEMA HITS HD
+http://vlgf9.top:80/live/2650884238/9336946294/501898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA PREMIERE HD" tvg-logo="https://i.postimg.cc/Nfxyt2Zx/SKY-CINEMA-PREMIERE-June-2020.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY CINEMA PREMIERE HD
+http://vlgf9.top:80/live/2650884238/9336946294/501899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA ROMANCE HD" tvg-logo="https://i.postimg.cc/zBb98WB2/ezgif-4-09448325d1.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY CINEMA ROMANCE HD
+http://vlgf9.top:80/live/2650884238/9336946294/501900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA SCI-FI HORROR HD" tvg-logo="https://i.postimg.cc/jS6qYp9n/SKY-CINEMA-SCIFI-HORROR-June-2020.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY CINEMA SCI-FI HORROR HD
+http://vlgf9.top:80/live/2650884238/9336946294/501901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA THRILLER HD" tvg-logo="https://i.postimg.cc/bv5p8qzg/SKY-CINEMA-THRILLER-June-2020.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY CINEMA THRILLER HD
+http://vlgf9.top:80/live/2650884238/9336946294/501902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY COMEDY HD" tvg-logo="https://i.postimg.cc/KYskVKR8/ezgif-4-a3db5bea22.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY COMEDY HD
+http://vlgf9.top:80/live/2650884238/9336946294/501903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CRIME HD" tvg-logo="https://i.postimg.cc/3N9z3Hp9/Sky-Crime-250.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY CRIME HD
+http://vlgf9.top:80/live/2650884238/9336946294/501904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY DOCUMENTARIES HD" tvg-logo="https://i.postimg.cc/VvjZNPC2/Sky-Docs-for-website.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY DOCUMENTARIES HD
+http://vlgf9.top:80/live/2650884238/9336946294/501905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NATURE HD" tvg-logo="https://i.postimg.cc/nLh4WjGX/Sky-Nature-250.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY NATURE HD
+http://vlgf9.top:80/live/2650884238/9336946294/501906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SCI-FI HD" tvg-logo="https://i.postimg.cc/Cxg553ZY/logo-SKY-SCIFI-WEBSITE-CHANNEL-PAGE.png" group-title="SKY ENTERTEMENT - الترفيهية",SKY SCI-FI HD
+http://vlgf9.top:80/live/2650884238/9336946294/501907.m3u8
