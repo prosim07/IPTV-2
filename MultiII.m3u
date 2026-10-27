@@ -76,5 +76,60 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps@SD" tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="General" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:-1 tvg-ID="ar:.2M.Monde.ae" tvg-name="MA - 2M HD" tvg-logo="http://logo.123sat.net/logo2026/logos/121.png" group-title="AR| MAROC",MA - 2M HD
-http://6972.dgpls.net:2082/Tazi326chafika/3j444kgv76/95865
+
+#EXTINF:-1 tvg-id="" tvg-name=" 4K『B E I N SPORT』" tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K『B E I N SPORT』
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/228
+#EXTINF:-1 tvg-id="beIN SPORTS.qa" tvg-name=" 4K BEIN SPORT" tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/229
+#EXTINF:-1 tvg-id="beIN 4K.qa" tvg-name=" 4K BEIN SPORT TOD " tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT TOD 
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/232
+#EXTINF:-1 tvg-id="beIN SPORTS NBA.qa" tvg-name="4K BEIN SPORT NBA " tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K",4K BEIN SPORT NBA 
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/230
+#EXTINF:-1 tvg-id="beIN SPORTS NEWS.qa" tvg-name=" 4K BEIN SPORT NEWS " tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT NEWS 
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/231
+#EXTINF:-1 tvg-id="beIN 4K.qa" tvg-name="BEIN SPORT 4K " tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K",BEIN SPORT 4K 
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/233
+#EXTINF:-1 tvg-id="beIN SPORTS 1.qa" tvg-name=" 4K BEIN SPORT 1 " tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT 1 
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/234
+#EXTINF:-1 tvg-id="beIN SPORTS 2.qa" tvg-name=" 4K BEIN SPORT 2 " tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT 2 
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/235
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name=" 4K BEIN SPORT 3 " tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT 3 
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/236
+#EXTINF:-1 tvg-id="beIN SPORTS 4.qa" tvg-name=" 4K BEIN SPORT 4 " tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT 4 
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/237
+#EXTINF:-1 tvg-id="beIN SPORTS 5.qa" tvg-name=" 4K BEIN SPORT 5 " tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT 5 
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/238
+#EXTINF:-1 tvg-id="beIN SPORTS 6.qa" tvg-name=" 4K BEIN SPORT 6 " tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT 6 
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/239
+#EXTINF:-1 tvg-id="beIN SPORTS 7.qa" tvg-name=" 4K BEIN SPORT 7 " tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT 7 
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/240
+#EXTINF:-1 tvg-id="beIN SPORTS 8.qa" tvg-name=" 4K BEIN SPORT 8 " tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT 8 
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/241
+#EXTINF:-1 tvg-id="beIN SPORTS 9.qa" tvg-name=" 4K BEIN SPORT 9 " tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT 9 
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/242
+#EXTINF:-1 tvg-id="beIN SPORTS EN 1.qa" tvg-name=" 4K BEIN SPORT 1 EN" tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT 1 EN
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/243
+#EXTINF:-1 tvg-id="beIN SPORTS EN 2.qa" tvg-name=" 4K BEIN SPORT 2 EN" tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT 2 EN
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/244
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name=" 4K BEIN SPORT 3 EN" tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT 3 EN
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/245
+#EXTINF:-1 tvg-id="beIN SPORTS FR 1.qa" tvg-name=" 4K BEIN SPORT 1 FR" tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT 1 FR
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/246
+#EXTINF:-1 tvg-id="beIN SPORTS FR 2.qa" tvg-name=" 4K BEIN SPORT 2 FR" tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT 2 FR
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/247
+#EXTINF:-1 tvg-id="beIN SPORTS 3.qa" tvg-name=" 4K BEIN SPORT 3 FR" tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT 3 FR
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/248
+#EXTINF:-1 tvg-id="beIN SPORTS AFC.qa" tvg-name=" 4K BEIN SPORT AFC " tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT AFC 
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/252
+#EXTINF:-1 tvg-id="beIN SPORTS 1 AFC.qa" tvg-name=" 4K BEIN SPORT AFC 1" tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT AFC 1
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/251
+#EXTINF:-1 tvg-id="beIN SPORTS 2 AFC.qa" tvg-name=" 4K BEIN SPORT AFC 2" tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT AFC 2
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/250
+#EXTINF:-1 tvg-id="beIN SPORTS 3 AFC.qa" tvg-name=" 4K BEIN SPORT AFC 3" tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT AFC 3
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/249
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA 1.qa" tvg-name=" 4K BEIN SPORT XTRA 1" tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT XTRA 1
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/255
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA 2.qa" tvg-name=" 4K BEIN SPORT XTRA 2" tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT XTRA 2
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/254
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA 3.qa" tvg-name=" 4K BEIN SPORT XTRA 3" tvg-logo="https://www.avcesar.com/source/actualites/00/00/84/FE/logo_bein_sports_4k.jpg" group-title="‎BEIN SPORTS   ‎4K", 4K BEIN SPORT XTRA 3
+http://main.viupru4k.live:8080/iqpmwqfr/hq0ikk75/253
