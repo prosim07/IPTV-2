@@ -77,25 +77,22 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN  SPORTS NEWS 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS NEWS 4k
-http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936482
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS GLOBAL 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS GLOBAL 4k
-http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/936483
-#EXTINF:-1 tvg-ID="beinseries1ar.qa" tvg-name="BEIN  SPORTS 1 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 1 4K
-http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/192818
-#EXTINF:-1 tvg-ID="beinsports2ar.qa" tvg-name="BEIN  SPORTS 2 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 2 4K
-http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193636
-#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN  SPORTS 3 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 3 4K
-http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193637
-#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS 4 4K
-http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193638
-#EXTINF:-1 tvg-ID="beinsports5ar.qa" tvg-name="BEIN SPORTS 5 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS 5 4K
-http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193639
-#EXTINF:-1 tvg-ID="beinsports6ar.qa" tvg-name="BEIN SPORTS 6 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS 6 4K
-http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193640
-#EXTINF:-1 tvg-ID="beinsports7ar.qa" tvg-name="BEIN SPORTS 7 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS 7 4K
-http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193641
-#EXTINF:-1 tvg-ID="beinsports1premiumar.qa" tvg-name="BEIN  SPORTS 8 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 8 4K
-http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193642
-#EXTINF:-1 tvg-ID="beinsports2premiumar.qa" tvg-name="BEIN  SPORTS 9 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 9 4K
-http://4576.live-44359.xyz:80/uvgosn8z4e/y75w735vj9/193643
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 4K" tvg-logo="https://i.ibb.co.com/YBKFpKZn/Screenshot-2026-09-23-220542.png" group-title="BEIN SPORTS 4K | بي إن سبورتس",beIN SPORTS 1 4K
+http://ktvs.xyz:8080/840193613738/QtUQsdZWOU/49533
+#EXTINF:-1 tvg-id="beINSports2.fr" tvg-name="beIN SPORTS 2 4K" tvg-logo="https://i.ibb.co.com/YBKFpKZn/Screenshot-2026-09-23-220542.png" group-title="BEIN SPORTS 4K | بي إن سبورتس",beIN SPORTS 2 4K
+http://ktvs.xyz:8080/840193613738/QtUQsdZWOU/49534
+#EXTINF:-1 tvg-id="beINSports3.au" tvg-name="beIN SPORTS 3 4K" tvg-logo="https://i.ibb.co.com/YBKFpKZn/Screenshot-2026-09-23-220542.png" group-title="BEIN SPORTS 4K | بي إن سبورتس",beIN SPORTS 3 4K
+http://ktvs.xyz:8080/840193613738/QtUQsdZWOU/49535
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN SPORTS 4 4K" tvg-logo="https://i.ibb.co.com/YBKFpKZn/Screenshot-2026-09-23-220542.png" group-title="BEIN SPORTS 4K | بي إن سبورتس",beIN SPORTS 4 4K
+http://ktvs.xyz:8080/840193613738/QtUQsdZWOU/49536
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN SPORT 5 4K" tvg-logo="https://i.ibb.co.com/YBKFpKZn/Screenshot-2026-09-23-220542.png" group-title="BEIN SPORTS 4K | بي إن سبورتس",beIN SPORT 5 4K
+http://ktvs.xyz:8080/840193613738/QtUQsdZWOU/49537
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN SPORT 6 4K" tvg-logo="https://i.ibb.co.com/YBKFpKZn/Screenshot-2026-09-23-220542.png" group-title="BEIN SPORTS 4K | بي إن سبورتس",beIN SPORT 6 4K
+http://ktvs.xyz:8080/840193613738/QtUQsdZWOU/49538
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN SPORT 7 4K" tvg-logo="https://i.ibb.co.com/YBKFpKZn/Screenshot-2026-09-23-220542.png" group-title="BEIN SPORTS 4K | بي إن سبورتس",beIN SPORT 7 4K
+http://ktvs.xyz:8080/840193613738/QtUQsdZWOU/49539
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="beIN SPORT 8 4K" tvg-logo="https://i.ibb.co.com/YBKFpKZn/Screenshot-2026-09-23-220542.png" group-title="BEIN SPORTS 4K | بي إن سبورتس",beIN SPORT 8 4K
+http://ktvs.xyz:8080/840193613738/QtUQsdZWOU/49540
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="beIN SPORT 9 4K" tvg-logo="https://i.ibb.co.com/YBKFpKZn/Screenshot-2026-09-23-220542.png" group-title="BEIN SPORTS 4K | بي إن سبورتس",beIN SPORT 9 4K
+http://ktvs.xyz:8080/840193613738/QtUQsdZWOU/49541
