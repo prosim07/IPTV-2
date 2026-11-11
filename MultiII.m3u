@@ -77,101 +77,21 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Syria Maraya" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="سـوريا",Syria Maraya
-http://r9r.link:2082/4436945R96/4436945R96/7095
-#EXTINF:-1 tvg-id="" tvg-name="Bein SPOR 1 (4K)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="【4K】FMLY",Bein SPOR 1 (4K)
-http://r9r.link:2082/4436945R96/4436945R96/72032
-#EXTINF:-1 tvg-id="" tvg-name="Bein SPOR 2 (4K)" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="【4K】FMLY",Bein SPOR 2 (4K)
-http://r9r.link:2082/4436945R96/4436945R96/72033
-#EXTINF:-1 tvg-id="" tvg-name="Bein SPOR 3 (4K)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="【4K】FMLY",Bein SPOR 3 (4K)
-http://r9r.link:2082/4436945R96/4436945R96/72034
-#EXTINF:-1 tvg-id="" tvg-name="Bein SPOR 4 (4K)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="【4K】FMLY",Bein SPOR 4 (4K)
-http://r9r.link:2082/4436945R96/4436945R96/72035
-#EXTINF:-1 tvg-id="" tvg-name="Bein SPOR 5 (4K)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="【4K】FMLY",Bein SPOR 5 (4K)
-http://r9r.link:2082/4436945R96/4436945R96/72036
-#EXTINF:-1 tvg-id="" tvg-name="Bein SPOR 6 (4K)" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/SPORTS_6-1.png" group-title="【4K】FMLY",Bein SPOR 6 (4K)
-http://r9r.link:2082/4436945R96/4436945R96/72037
-#EXTINF:-1 tvg-id="" tvg-name="Bein SPOR 7 (4K)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="【4K】FMLY",Bein SPOR 7 (4K)
-http://r9r.link:2082/4436945R96/4436945R96/72038
-#EXTINF:-1 tvg-id="" tvg-name="Bein SPOR 8 (4K)" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="【4K】FMLY",Bein SPOR 8 (4K)
-http://r9r.link:2082/4436945R96/4436945R96/72029
-#EXTINF:-1 tvg-id="" tvg-name="Bein SPOR 9 (4K)" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="【4K】FMLY",Bein SPOR 9 (4K)
-http://r9r.link:2082/4436945R96/4436945R96/72030
-#EXTINF:-1 tvg-id="" tvg-name="Bein News (4K)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="سبورت عـــربي",Bein News (4K)
-http://r9r.link:2082/4436945R96/4436945R96/1047
-
-#EXTINF:-1 tvg-id="" tvg-name="Kids Coco" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="اطفال بيـبي<<",Kids Coco
-http://r9r.link:2082/4436945R96/4436945R96/7224
-#EXTINF:-1 tvg-id="" tvg-name="Kids LooLoo" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="اطفال بيـبي<<",Kids LooLoo
-http://r9r.link:2082/4436945R96/4436945R96/7983
-#EXTINF:-1 tvg-id="" tvg-name="Kids TiNTON" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="اطفال بيـبي<<",Kids TiNTON
-http://r9r.link:2082/4436945R96/4436945R96/187
-#EXTINF:-1 tvg-id="" tvg-name="Kids Majid" tvg-logo="http://163.172.73.81/mylogo20191019/kids/الماجد-للاطفال.jpg" group-title="اطـفـال<<",Kids Majid
-http://r9r.link:2082/4436945R96/4436945R96/1382
-#EXTINF:-1 tvg-id="" tvg-name="kids Spongebobs" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="اطـفـال<<",kids Spongebobs
-http://r9r.link:2082/4436945R96/4436945R96/8002
-#EXTINF:-1 tvg-id="" tvg-name="OSN 4k KIDS 4k" tvg-logo="http://163.172.73.81/mylogo20191019/osn/OMK.png" group-title="او اس ان【4K】",OSN 4k KIDS 4k
-http://r9r.link:2082/4436945R96/4436945R96/94309
-
-#EXTINF:-1 tvg-id="" tvg-name="مرايا 1991" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا 1991
-http://r9r.link:2082/4436945R96/4436945R96/26577
-#EXTINF:-1 tvg-id="" tvg-name="مرايا 1995" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا 1995
-http://r9r.link:2082/4436945R96/4436945R96/26578
-#EXTINF:-1 tvg-id="" tvg-name="مرايا 1996" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا 1996
-http://r9r.link:2082/4436945R96/4436945R96/26579
-#EXTINF:-1 tvg-id="" tvg-name="مرايا 2013" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا 2013
-http://r9r.link:2082/4436945R96/4436945R96/26580
-#EXTINF:-1 tvg-id="" tvg-name="مرايا 1997" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا 1997
-http://r9r.link:2082/4436945R96/4436945R96/26581
-#EXTINF:-1 tvg-id="" tvg-name="مرايا 1998" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا 1998
-http://r9r.link:2082/4436945R96/4436945R96/26582
-#EXTINF:-1 tvg-id="" tvg-name="مرايا 1999" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا 1999
-http://r9r.link:2082/4436945R96/4436945R96/26583
-#EXTINF:-1 tvg-id="" tvg-name="مرايا 2000" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا 2000
-http://r9r.link:2082/4436945R96/4436945R96/26584
-#EXTINF:-1 tvg-id="" tvg-name="مرايا حكايا" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا حكايا
-http://r9r.link:2082/4436945R96/4436945R96/26585
-#EXTINF:-1 tvg-id="" tvg-name="مرايا 2001" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا 2001
-http://r9r.link:2082/4436945R96/4436945R96/26586
-#EXTINF:-1 tvg-id="" tvg-name="مرايا 2002" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا 2002
-http://r9r.link:2082/4436945R96/4436945R96/26587
-#EXTINF:-1 tvg-id="" tvg-name="مرايا 2003" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا 2003
-http://r9r.link:2082/4436945R96/4436945R96/26588
-#EXTINF:-1 tvg-id="" tvg-name="مرايا 2004" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا 2004
-http://r9r.link:2082/4436945R96/4436945R96/26589
-#EXTINF:-1 tvg-id="" tvg-name="مرايا 2005" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا 2005
-http://r9r.link:2082/4436945R96/4436945R96/26590
-#EXTINF:-1 tvg-id="" tvg-name="مرايا 2006" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا 2006
-http://r9r.link:2082/4436945R96/4436945R96/26591
-#EXTINF:-1 tvg-id="" tvg-name="مرايا 2011" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",مرايا 2011
-http://r9r.link:2082/4436945R96/4436945R96/26592
-#EXTINF:-1 tvg-id="" tvg-name="بقعة ضوء 2001" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",بقعة ضوء 2001
-http://r9r.link:2082/4436945R96/4436945R96/26632
-#EXTINF:-1 tvg-id="" tvg-name="بقعة ضوء 2002" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",بقعة ضوء 2002
-http://r9r.link:2082/4436945R96/4436945R96/26633
-#EXTINF:-1 tvg-id="" tvg-name="بقعة ضوء 2003" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",بقعة ضوء 2003
-http://r9r.link:2082/4436945R96/4436945R96/26634
-#EXTINF:-1 tvg-id="" tvg-name="بقعة ضوء 2004" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",بقعة ضوء 2004
-http://r9r.link:2082/4436945R96/4436945R96/26635
-#EXTINF:-1 tvg-id="" tvg-name="بقعة ضوء 2005" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",بقعة ضوء 2005
-http://r9r.link:2082/4436945R96/4436945R96/26636
-#EXTINF:-1 tvg-id="" tvg-name="بقعة ضوء 2008" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",بقعة ضوء 2008
-http://r9r.link:2082/4436945R96/4436945R96/26637
-#EXTINF:-1 tvg-id="" tvg-name="بقعة ضوء 2010" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",بقعة ضوء 2010
-http://r9r.link:2082/4436945R96/4436945R96/26638
-#EXTINF:-1 tvg-id="" tvg-name="بقعة ضوء 2011" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",بقعة ضوء 2011
-http://r9r.link:2082/4436945R96/4436945R96/26639
-#EXTINF:-1 tvg-id="" tvg-name="بقعة ضوء 2012" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",بقعة ضوء 2012
-http://r9r.link:2082/4436945R96/4436945R96/26640
-#EXTINF:-1 tvg-id="" tvg-name="بقعة ضوء 2014" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",بقعة ضوء 2014
-http://r9r.link:2082/4436945R96/4436945R96/26641
-#EXTINF:-1 tvg-id="" tvg-name="بقعة ضوء 2015" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",بقعة ضوء 2015
-http://r9r.link:2082/4436945R96/4436945R96/26642
-#EXTINF:-1 tvg-id="" tvg-name="بقعة ضوء 2016" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",بقعة ضوء 2016
-http://r9r.link:2082/4436945R96/4436945R96/26643
-#EXTINF:-1 tvg-id="" tvg-name="بقعة ضوء 2017" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",بقعة ضوء 2017
-http://r9r.link:2082/4436945R96/4436945R96/26644
-#EXTINF:-1 tvg-id="" tvg-name="بقعة ضوء 2019" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",بقعة ضوء 2019
-http://r9r.link:2082/4436945R96/4436945R96/26645
-#EXTINF:-1 tvg-id="" tvg-name="بقعة ضوء 2021" tvg-logo="http://163.172.73.81/mylogo20191019/sh/shamnaua.jpg" group-title="شامنا كوميدي<<",بقعة ضوء 2021
-http://r9r.link:2082/4436945R96/4436945R96/52553
+#EXTINF:-1,|AR| BEIN SPORTS 4K 1
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/167699
+#EXTINF:-1,|AR| BEIN SPORTS 4K 2
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/167700
+#EXTINF:-1,|AR| BEIN SPORTS 4K 3
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/167701
+#EXTINF:-1,|AR| BEIN SPORTS 4K 4
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/167702
+#EXTINF:-1,|AR| BEIN SPORTS 4K 5
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/167703
+#EXTINF:-1,|AR| BEIN SPORTS 4K 6
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/167704
+#EXTINF:-1,|AR| BEIN SPORTS 4K 7
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/167705
+#EXTINF:-1,|AR| BEIN SPORT ENGLISH 4K 2
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/167706
+#EXTINF:-1,|AR| BEIN SPORT ENGLISH 4K 3
+http://u8k.pro:2082/893963693051/bHksg68fWnri8/167707
