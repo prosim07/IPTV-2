@@ -77,45 +77,21 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
 
-#EXTINF:-1,AR: BEIN SPORTS 1
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/841
-#EXTINF:-1,AR: BEIN SPORTS 2
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/842
-#EXTINF:-1,AR: BEIN SPORTS 3
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/843
-#EXTINF:-1,AR: BEIN SPORTS 4
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/844
-#EXTINF:-1,AR: BEIN SPORTS 5
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/845
-#EXTINF:-1,AR: BEIN SPORTS 6
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/846
-#EXTINF:-1,AR: BEIN SPORTS 7
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/847
-#EXTINF:-1,AR: BEIN SPORTS PREMIUM 1
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/853
-#EXTINF:-1,AR: BEIN SPORTS PREMIUM 2
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/854
-#EXTINF:-1,AR: BEIN SPORTS PREMIUM 3
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/855
-#EXTINF:-1,AR: BEIN SPORTS MAX 1
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/835
-#EXTINF:-1,AR: BEIN SPORTS MAX 2
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/836
-#EXTINF:-1,AR: BEIN SPORTS MAX 3
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/837
-#EXTINF:-1,AR: BEIN SPORTS MAX 4
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/838
-#EXTINF:-1,AR: BEIN SPORTS MAX 6
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/840
-#EXTINF:-1,AR: BEIN SPORTS ENG 1
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/848
-#EXTINF:-1,AR: BEIN SPORTS ENG 2
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/849
-#EXTINF:-1,AR: BEIN SPORTS ENG 3
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/850
-#EXTINF:-1,AR: BEIN SPORTS NBA
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/851
-#EXTINF:-1,AR: BEIN SPORTS NEWS
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/852
-#EXTINF:-1,AR: BEIN SPORTS XTRA 1
-http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/856
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="AR - beIN SPORTS 1" tvg-logo="http://logo.123sat.net/logo2026/logos/118.png" group-title="AR| BEIN SPORTS 8k ⁸ᴷ",AR - beIN SPORTS 1
+http://6972.dgpls.net:2082/Tazi326chafika/3j444kgv76/232186
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="AR - beIN SPORTS 2" tvg-logo="http://logo.123sat.net/logo2026/logos/510.png" group-title="AR| BEIN SPORTS 8k ⁸ᴷ",AR - beIN SPORTS 2
+http://6972.dgpls.net:2082/Tazi326chafika/3j444kgv76/232187
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="AR - beIN SPORTS 3" tvg-logo="http://logo.123sat.net/logo2026/logos/511.png" group-title="AR| BEIN SPORTS 8k ⁸ᴷ",AR - beIN SPORTS 3
+http://6972.dgpls.net:2082/Tazi326chafika/3j444kgv76/232188
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="AR - beIN SPORTS 4" tvg-logo="http://logo.123sat.net/logo2026/logos/111.png" group-title="AR| BEIN SPORTS 8k ⁸ᴷ",AR - beIN SPORTS 4
+http://6972.dgpls.net:2082/Tazi326chafika/3j444kgv76/232189
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="AR - beIN SPORTS 5" tvg-logo="http://logo.123sat.net/logo2026/logos/112.png" group-title="AR| BEIN SPORTS 8k ⁸ᴷ",AR - beIN SPORTS 5
+http://6972.dgpls.net:2082/Tazi326chafika/3j444kgv76/232190
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="AR - beIN SPORTS 6" tvg-logo="http://logo.123sat.net/logo2026/logos/113.png" group-title="AR| BEIN SPORTS 8k ⁸ᴷ",AR - beIN SPORTS 6
+http://6972.dgpls.net:2082/Tazi326chafika/3j444kgv76/232191
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="AR - beIN SPORTS 7" tvg-logo="http://logo.123sat.net/logo2026/logos/114.png" group-title="AR| BEIN SPORTS 8k ⁸ᴷ",AR - beIN SPORTS 7
+http://6972.dgpls.net:2082/Tazi326chafika/3j444kgv76/232192
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="AR - beIN SPORTS 8" tvg-logo="http://logo.123sat.net/logo2026/logos/115.png" group-title="AR| BEIN SPORTS 8k ⁸ᴷ",AR - beIN SPORTS 8
+http://6972.dgpls.net:2082/Tazi326chafika/3j444kgv76/232193
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="AR - beIN SPORTS 9" tvg-logo="http://logo.123sat.net/logo2026/logos/116.png" group-title="AR| BEIN SPORTS 8k ⁸ᴷ",AR - beIN SPORTS 9
+http://6972.dgpls.net:2082/Tazi326chafika/3j444kgv76/232194
