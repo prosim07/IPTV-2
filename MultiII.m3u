@@ -170,6 +170,15 @@ http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/196465
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9 SD" tvg-logo="http://img.lb-ss.com:80/images/tv/196466_01b5614537b72ac55e3141efd4dc129a.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 9 SD
 http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/196466
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: [4K] BEIN SPORTS 1 EN UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/169882_9f959cfcf18322d9e34cd6991891d704.png" group-title="UK TV [SPORTS EXTRA]",UK: [4K] BEIN SPORTS 1 EN UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/169882
+#EXTINF:-1 tvg-id="" tvg-name="UK: BEIN SPORTS 1 EN FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/169883_9f959cfcf18322d9e34cd6991891d704.png" group-title="UK TV [SPORTS EXTRA]",UK: BEIN SPORTS 1 EN FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/169883
+#EXTINF:-1 tvg-id="" tvg-name="UK: [4K] BEIN SPORTS 2 EN UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/169884_dfd870701a5955b3dcd60c16f91845f0.png" group-title="UK TV [SPORTS EXTRA]",UK: [4K] BEIN SPORTS 2 EN UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/169884
+#EXTINF:-1 tvg-id="" tvg-name="UK: BEIN SPORTS 2 EN FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/169885_dfd870701a5955b3dcd60c16f91845f0.png" group-title="UK TV [SPORTS EXTRA]",UK: BEIN SPORTS 2 EN FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/169885
+
 #EXTINF:-1 tvg-id="beINMovies1Premiere.qa" tvg-name="AR: BEIN Movies 1 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/26771_1fa313776343253a0c4770bc4d9fb2e3.png" group-title="Arabic VIP TV [مميز]",AR: BEIN Movies 1 FHD
 http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/26771
 #EXTINF:-1 tvg-id="beINMovies1Premiere.qa" tvg-name="AR: BeIn Movies 1 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/1119_ffc3eab467e3083584d566ee4fe308f8.png" group-title="Arabic VIP TV [مميز]",AR: BeIn Movies 1 HD
@@ -386,6 +395,75 @@ http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/157184
 http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/157186
 #EXTINF:-1 tvg-id="" tvg-name="AR: [JO] Kaifa TV" tvg-logo="http://img.lb-ss.com:80/images/tv/157188_175989e5f8c791386a9b8345f347ebfe.png" group-title="Jordan [الاردن]",AR: [JO] Kaifa TV
 http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/157188
-#EXTINF:-1 tvg-id="" tvg-name="AR: [JO] Karameesh" tvg-logo="http://img.lb-ss.com:80/images/tv/157189_c1c4358dec50027314d67403ef572ae3.png" group-title="Jordan [الاردن]",AR: [JO] Karameesh
-http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/157189
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera HD" tvg-logo="http://img.lb-ss.com:80/images/tv/731_971afa95a2fec95ad40487052fd663e1.png" group-title="Arabic TV [أخبار]",AR: Al Jazeera HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/731
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera Mubasher" tvg-logo="http://img.lb-ss.com:80/images/tv/732_5aa81cd8f1f79d3562e960a79ff1ef20.png" group-title="Arabic TV [أخبار]",AR: Al Jazeera Mubasher
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/732
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera Documentary" tvg-logo="http://img.lb-ss.com:80/images/tv/733_d41136814a3d8fd35e689c8f00280678.png" group-title="Arabic TV [أخبار]",AR: Al Jazeera Documentary
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/733
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Arabyia HD" tvg-logo="http://img.lb-ss.com:80/images/tv/5390_1a8322851959e894a9163db0c887b105.png" group-title="Arabic TV [أخبار]",AR: Al Arabyia HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/5390
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Arabyia" tvg-logo="http://img.lb-ss.com:80/images/tv/734_0ac41889c8a787ed0a524a8624d2e709.png" group-title="Arabic TV [أخبار]",AR: Al Arabyia
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/734
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL ARABY HD" tvg-logo="http://img.lb-ss.com:80/images/tv/5536_04996094279843aa34e9a5a97c1d1ba0.png" group-title="Arabic TV [أخبار]",AR: AL ARABY HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/5536
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL ARABY 2 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/161522_60d668f46906ad0f18a899f60174371e.png" group-title="Arabic TV [أخبار]",AR: AL ARABY 2 HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/161522
+#EXTINF:-1 tvg-id="" tvg-name="AR: BBC Arabic" tvg-logo="http://img.lb-ss.com:80/images/tv/433_18e67a2c1e402b68bbcb74270be0cd88.png" group-title="Arabic TV [أخبار]",AR: BBC Arabic
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/433
+#EXTINF:-1 tvg-id="" tvg-name="AR: CGTN Arabic" tvg-logo="http://img.lb-ss.com:80/images/tv/21243_8abb2c608b58610c5c0bfc40d4d4cc5c.png" group-title="Arabic TV [أخبار]",AR: CGTN Arabic
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/21243
+#EXTINF:-1 tvg-id="" tvg-name="AR: CNBC Arabiya" tvg-logo="http://img.lb-ss.com:80/images/tv/3227_9a9b1631ded01b8642145dd3bbf1e507.png" group-title="Arabic TV [أخبار]",AR: CNBC Arabiya
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/3227
+#EXTINF:-1 tvg-id="" tvg-name="AR: DW TV Arabia" tvg-logo="http://img.lb-ss.com:80/images/tv/3226_07d9bb128b1f8bc891b7c9cd7b0821c0.png" group-title="Arabic TV [أخبار]",AR: DW TV Arabia
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/3226
+#EXTINF:-1 tvg-id="" tvg-name="AR: RT Arabic HD" tvg-logo="http://img.lb-ss.com:80/images/tv/737_17e4467730c52d9af5f3b2d59d81632f.png" group-title="Arabic TV [أخبار]",AR: RT Arabic HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/737
+#EXTINF:-1 tvg-id="" tvg-name="AR: Sky News Arabia" tvg-logo="http://img.lb-ss.com:80/images/tv/736_138fe59613b6a85d3567c50d4f9b2958.png" group-title="Arabic TV [أخبار]",AR: Sky News Arabia
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/736
+#EXTINF:-1 tvg-id="" tvg-name="AR: TRT Arabic" tvg-logo="http://img.lb-ss.com:80/images/tv/2864_292c9938ea2afa6af7f86a4fc4f0f3f4.png" group-title="Arabic TV [أخبار]",AR: TRT Arabic
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/2864
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL ALAM TV" tvg-logo="http://img.lb-ss.com:80/images/tv/165176_3fd80308f3a18a640f36438733aff944.png" group-title="Arabic TV [أخبار]",AR: AL ALAM TV
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/165176
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL SHARQIYA NEWS HD" tvg-logo="http://img.lb-ss.com:80/images/tv/4118_7f3a3e14b4b1959b31abb9566211da93.png" group-title="Arabic TV [أخبار]",AR: AL SHARQIYA NEWS HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/4118
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL EKHBARIYA AL SORIYA" tvg-logo="http://img.lb-ss.com:80/images/tv/5802_b64269fe3e007d6b29557fdd55a8ed49.png" group-title="Arabic TV [أخبار]",AR: AL EKHBARIYA AL SORIYA
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/5802
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALHAWYAH TV" tvg-logo="http://img.lb-ss.com:80/images/tv/21080_b64269fe3e007d6b29557fdd55a8ed49.png" group-title="Arabic TV [أخبار]",AR: ALHAWYAH TV
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/21080
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Arabiya Al Hadath" tvg-logo="http://img.lb-ss.com:80/images/tv/4120_5441b614ee413aeb520a50ada2cfa2ee.png" group-title="Arabic TV [أخبار]",AR: Al Arabiya Al Hadath
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/4120
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Ekhbaria HD" tvg-logo="http://img.lb-ss.com:80/images/tv/1534_ee0c6bc6fdfaa57b364997f62b967f9f.png" group-title="Arabic TV [أخبار]",AR: Al Ekhbaria HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/1534
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Ghad TV" tvg-logo="http://img.lb-ss.com:80/images/tv/728_52539438052133c8aa381bac60c2345d.png" group-title="Arabic TV [أخبار]",AR: Al Ghad TV
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/728
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Hadath" tvg-logo="http://img.lb-ss.com:80/images/tv/5389_6c7754df1df762196ab930386765c865.png" group-title="Arabic TV [أخبار]",AR: Al Hadath
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/5389
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Rabiaa TV" tvg-logo="http://img.lb-ss.com:80/images/tv/154434_c75a752611c616625012656aef2c2021.png" group-title="Arabic TV [أخبار]",AR: Al Rabiaa TV
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/154434
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Sharqiya News" tvg-logo="http://img.lb-ss.com:80/images/tv/2356_ab9e489c076bf68f67f3df494376d6e3.png" group-title="Arabic TV [أخبار]",AR: Al Sharqiya News
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/2356
+#EXTINF:-1 tvg-id="" tvg-name="AR: Alyaum TV" tvg-logo="http://img.lb-ss.com:80/images/tv/21064_b64269fe3e007d6b29557fdd55a8ed49.png" group-title="Arabic TV [أخبار]",AR: Alyaum TV
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/21064
+#EXTINF:-1 tvg-id="" tvg-name="AR: Echourouk News" tvg-logo="http://img.lb-ss.com:80/images/tv/3059_2640560fe78a93e9655bceb3fabe32ef.png" group-title="Arabic TV [أخبار]",AR: Echourouk News
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/3059
+#EXTINF:-1 tvg-id="" tvg-name="AR: Ekhbariya TV" tvg-logo="http://img.lb-ss.com:80/images/tv/3236_20baec27180f30452ece364cd25e6e6c.png" group-title="Arabic TV [أخبار]",AR: Ekhbariya TV
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/3236
+#EXTINF:-1 tvg-id="" tvg-name="AR: El Sharq" tvg-logo="http://img.lb-ss.com:80/images/tv/1763_aca638af03d38f14ec1d18e7cb6379fb.png" group-title="Arabic TV [أخبار]",AR: El Sharq
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/1763
+#EXTINF:-1 tvg-id="" tvg-name="AR: France 24 Arabic" tvg-logo="http://img.lb-ss.com:80/images/tv/5933_e09592925e55eb558913663c8c7547dd.png" group-title="Arabic TV [أخبار]",AR: France 24 Arabic
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/5933
+#EXTINF:-1 tvg-id="" tvg-name="AR: Iraqia News HD" tvg-logo="http://img.lb-ss.com:80/images/tv/6087_37a15ead4952ba6b5a36257dc823ff5d.png" group-title="Arabic TV [أخبار]",AR: Iraqia News HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/6087
+#EXTINF:-1 tvg-id="" tvg-name="AR: Iraqia News" tvg-logo="http://img.lb-ss.com:80/images/tv/21237_49971e13b1551e5dc8ddb022875e63df.png" group-title="Arabic TV [أخبار]",AR: Iraqia News
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/21237
+#EXTINF:-1 tvg-id="" tvg-name="AR: Libya 218 News" tvg-logo="http://img.lb-ss.com:80/images/tv/5674_d4dce916aa87b17bfef06a146f35b272.png" group-title="Arabic TV [أخبار]",AR: Libya 218 News
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/5674
+#EXTINF:-1 tvg-id="" tvg-name="AR: Mekameleen" tvg-logo="http://img.lb-ss.com:80/images/tv/5537_d8836213022638cd85324a0df64dd439.png" group-title="Arabic TV [أخبار]",AR: Mekameleen
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/5537
+#EXTINF:-1 tvg-id="" tvg-name="AR: Nile News" tvg-logo="http://img.lb-ss.com:80/images/tv/5780_c229fe4328e08842b2754f4e1c6497ff.png" group-title="Arabic TV [أخبار]",AR: Nile News
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/5780
+#EXTINF:-1 tvg-id="" tvg-name="AR: Palestine News" tvg-logo="http://img.lb-ss.com:80/images/tv/21037_b64269fe3e007d6b29557fdd55a8ed49.png" group-title="Arabic TV [أخبار]",AR: Palestine News
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/21037
 
