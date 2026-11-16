@@ -178,6 +178,105 @@ http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/169883
 http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/169884
 #EXTINF:-1 tvg-id="" tvg-name="UK: BEIN SPORTS 2 EN FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/169885_dfd870701a5955b3dcd60c16f91845f0.png" group-title="UK TV [SPORTS EXTRA]",UK: BEIN SPORTS 2 EN FHD
 http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/169885
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/6072_28fbe20c7d36a2a5e4f9a0371489118e.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 1 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/6072
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/6067_1db8e5cb721a5f9c5993b4f7c5aadb3f.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 1 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/6067
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: Sport TV 1" tvg-logo="http://img.lb-ss.com:80/images/tv/494_1db8e5cb721a5f9c5993b4f7c5aadb3f.png" group-title="Portuguese TV [SPORTS]",PT: Sport TV 1
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/494
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/6071_ae7024b7b09317196a3489883aeae5cf.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 2 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/6071
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/6070_71515464fe01759fc0921606d8d3dc76.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 2 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/6070
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: Sport TV 2" tvg-logo="http://img.lb-ss.com:80/images/tv/495_0d38835cf029134d69bb0d9653de162b.png" group-title="Portuguese TV [SPORTS]",PT: Sport TV 2
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/495
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/6069_0e2d6f0e0684e0504ef3f407c85e1e52.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 3 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/6069
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/6068_5f080980f7ec79387bd3dac2c08a03a9.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 3 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/6068
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3" tvg-logo="http://img.lb-ss.com:80/images/tv/1097_3aea6403d5712c2e8d7f9d570742e61e.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 3
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/1097
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/183998_ee5a1c0cf135820564fdb6d8738782aa.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 4 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/183998
+#EXTINF:-1 tvg-id="SportTV4K.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/183997_ee5a1c0cf135820564fdb6d8738782aa.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 4 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/183997
+#EXTINF:-1 tvg-id="SportTV4K.pt" tvg-name="PT: SPORT TV 4" tvg-logo="http://img.lb-ss.com:80/images/tv/1098_33f79acca75a2bfad63315a87f67751d.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 4
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/1098
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/183999_61b65f79b8955967fdc3088ab32c239a.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 5 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/183999
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/184000_61b65f79b8955967fdc3088ab32c239a.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 5 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/184000
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5" tvg-logo="http://img.lb-ss.com:80/images/tv/1099_0537e99b7228e6eedcfee3532b311114.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 5
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/1099
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT: SPORT TV 6 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/167964_5f7f86e00e1d4b281a2aae69a61715a6.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 6 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/167964
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/184001_a8e02926750fe8e8a838dfa1a44ff0c4.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 6 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/184001
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6" tvg-logo="http://img.lb-ss.com:80/images/tv/237609_565e965387366a717cd0a99b59b96943.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 6
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/237609
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 7 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/167963_a8e02926750fe8e8a838dfa1a44ff0c4.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 7 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/167963
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 7 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/37588_170f23b24529604ad88f4761094fea0a.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 7 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/37588
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 7" tvg-logo="http://img.lb-ss.com:80/images/tv/237610_565e965387366a717cd0a99b59b96943.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV 7
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/237610
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT: SPORT TV+ FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/6066_420c244183afb5ea69ce5e721da61239.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV+ FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/6066
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT: SPORT TV+ UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/1199_424ae169f5cdd8091846ef23f359eb59.png" group-title="Portuguese TV [SPORTS]",PT: SPORT TV+ UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/1199
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="PT: SPORTING FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/6063_d5749b595171bf7eccc60496739c421f.png" group-title="Portuguese TV [SPORTS]",PT: SPORTING FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/6063
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV" tvg-logo="http://img.lb-ss.com:80/images/tv/1162_36da137fd4ecb8f1012fdcf8489e970e.png" group-title="Portuguese TV [SPORTS]",PT: SPORTING TV
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/1162
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/6065_b330332f3620343ace5aefa903df3e8a.png" group-title="Portuguese TV [SPORTS]",PT: BTV FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/6065
+#EXTINF:-1 tvg-id="" tvg-name="PT: Benfica TV 1" tvg-logo="http://img.lb-ss.com:80/images/tv/1198_28bbf097740b977d810cf7cd81187264.png" group-title="Portuguese TV [SPORTS]",PT: Benfica TV 1
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/1198
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT1 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/6062_7f0c7d4e0300334d00652eb524530960.png" group-title="Portuguese TV [SPORTS]",PT: EUROSPORT1 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/6062
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="PT: EUROSPORT 1" tvg-logo="http://img.lb-ss.com:80/images/tv/1161_4aed52390eae5126c037293e2bcd1717.png" group-title="Portuguese TV [SPORTS]",PT: EUROSPORT 1
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/1161
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="PT: EUROSPORT2 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/6061_f9123dc7d084e474d8ff7edddd7cd064.png" group-title="Portuguese TV [SPORTS]",PT: EUROSPORT2 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/6061
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="PT: EUROSPORT 2" tvg-logo="http://img.lb-ss.com:80/images/tv/1160_e7567e14b35f7d4f70259b77c45e7cc8.png" group-title="Portuguese TV [SPORTS]",PT: EUROSPORT 2
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/1160
+#EXTINF:-1 tvg-id="" tvg-name="PT: PFC" tvg-logo="http://img.lb-ss.com:80/images/tv/6060_170f23b24529604ad88f4761094fea0a.png" group-title="Portuguese TV [SPORTS]",PT: PFC
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/6060
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Dazn 1 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/167958_f5ec33125767d1615b65edf8e4d011fb.png" group-title="Portuguese TV [SPORTS]",PT: Dazn 1 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/167958
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: DAZN 1 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/17811_20007d8b1042c1b3c12bf7cdc7438b35.png" group-title="Portuguese TV [SPORTS]",PT: DAZN 1 HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/17811
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 1" tvg-logo="http://img.lb-ss.com:80/images/tv/237611_79bf0442fcb343050c92c688e459816e.png" group-title="Portuguese TV [SPORTS]",PT: DAZN 1
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/237611
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: Dazn 2 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/167959_f5ec33125767d1615b65edf8e4d011fb.png" group-title="Portuguese TV [SPORTS]",PT: Dazn 2 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/167959
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: DAZN 2 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/17809_030ef688f5a9bce2c6d3d798e0ba497f.png" group-title="Portuguese TV [SPORTS]",PT: DAZN 2 HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/17809
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 2" tvg-logo="http://img.lb-ss.com:80/images/tv/237612_79bf0442fcb343050c92c688e459816e.png" group-title="Portuguese TV [SPORTS]",PT: DAZN 2
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/237612
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: Dazn 3 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/167960_f5ec33125767d1615b65edf8e4d011fb.png" group-title="Portuguese TV [SPORTS]",PT: Dazn 3 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/167960
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: DAZN 3 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/17807_1338639903a4c1abdb505f221c2d56bd.png" group-title="Portuguese TV [SPORTS]",PT: DAZN 3 HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/17807
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 3" tvg-logo="http://img.lb-ss.com:80/images/tv/237613_79bf0442fcb343050c92c688e459816e.png" group-title="Portuguese TV [SPORTS]",PT: DAZN 3
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/237613
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: Dazn 4 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/167961_1338639903a4c1abdb505f221c2d56bd.png" group-title="Portuguese TV [SPORTS]",PT: Dazn 4 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/167961
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: DAZN 4 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/17806_500aa84171f298dcf117caf2eae89397.png" group-title="Portuguese TV [SPORTS]",PT: DAZN 4 HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/17806
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 4" tvg-logo="http://img.lb-ss.com:80/images/tv/237614_79bf0442fcb343050c92c688e459816e.png" group-title="Portuguese TV [SPORTS]",PT: DAZN 4
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/237614
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: Dazn 5 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/167962_1338639903a4c1abdb505f221c2d56bd.png" group-title="Portuguese TV [SPORTS]",PT: Dazn 5 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/167962
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: DAZN 5 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/37587_d8a6c5925dc3de6b4e6db29acc033230.png" group-title="Portuguese TV [SPORTS]",PT: DAZN 5 HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/37587
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 5" tvg-logo="http://img.lb-ss.com:80/images/tv/237615_79bf0442fcb343050c92c688e459816e.png" group-title="Portuguese TV [SPORTS]",PT: DAZN 5
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/237615
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="PT: A BOLA TV" tvg-logo="http://img.lb-ss.com:80/images/tv/1192_3f453e0f13ec8c477eaa988e1536178e.png" group-title="Portuguese TV [SPORTS]",PT: A BOLA TV
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/1192
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="PT: Canal 11" tvg-logo="http://img.lb-ss.com:80/images/tv/184002_78efa0e1f57f92e596c11e93856a48a7.png" group-title="Portuguese TV [SPORTS]",PT: Canal 11
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/184002
+
 
 #EXTINF:-1 tvg-id="beINMovies1Premiere.qa" tvg-name="AR: BEIN Movies 1 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/26771_1fa313776343253a0c4770bc4d9fb2e3.png" group-title="Arabic VIP TV [مميز]",AR: BEIN Movies 1 FHD
 http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/26771
