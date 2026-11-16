@@ -97,5 +97,76 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798793&e
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS UHD",┃AR┃ BEIN SPORTS 9 UHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798794&extension=ts
 
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS UHD",┃AR┃ BEIN SPORTS 2 UHD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798773
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="AR: BEIN SPORTS 1 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/443_1b28c1ba35a3f28dac4c41e7b0b152aa.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 1 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/443
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="AR: BEIN SPORTS 1 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/22226_1b28c1ba35a3f28dac4c41e7b0b152aa.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 1 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/22226
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="AR: BEIN SPORTS 1 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/18350_1b28c1ba35a3f28dac4c41e7b0b152aa.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 1 HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/18350
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="AR: BEIN SPORTS 1 SD" tvg-logo="http://img.lb-ss.com:80/images/tv/152090_1b28c1ba35a3f28dac4c41e7b0b152aa.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 1 SD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/152090
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="AR: BEIN SPORTS 2 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/444_23f03f0ec6cf349813fcbe6df57be0ee.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 2 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/444
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="AR: BEIN SPORTS 2 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/22227_2a6c88e5b0b589ab6425755dea6cd25b.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 2 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/22227
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="AR: BEIN SPORTS 2 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/18349_f1b691e94dd5b67701d8f015327ee376.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 2 HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/18349
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="AR: BEIN SPORTS 2 SD" tvg-logo="http://img.lb-ss.com:80/images/tv/152091_2a6c88e5b0b589ab6425755dea6cd25b.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 2 SD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/152091
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="AR: BEIN SPORTS 3 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/445_75cb70a9ebbe32d530dad9173b66dc87.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 3 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/445
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="AR: BEIN SPORTS 3 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/22228_75cb70a9ebbe32d530dad9173b66dc87.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 3 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/22228
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="AR: BEIN SPORTS 3 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/18348_330c28bf3d8323bddeb42e9fd6486a23.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 3 HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/18348
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="AR: BEIN SPORTS 3 SD" tvg-logo="http://img.lb-ss.com:80/images/tv/152092_75cb70a9ebbe32d530dad9173b66dc87.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 3 SD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/152092
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="AR: BEIN SPORTS 4 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/439_b5227230b4d3c52b526974aec89cdb82.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 4 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/439
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="AR: BEIN SPORTS 4 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/22222_d86ab7ebac88238da6b8b47ec6bec6a0.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 4 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/22222
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="AR: BEIN SPORTS 4 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/18354_687c20989ad4b1da18f5da3421d7d2e3.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 4 HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/18354
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="AR: BEIN SPORTS 4 SD" tvg-logo="http://img.lb-ss.com:80/images/tv/152093_b92eff988207e6cdb031d865eea25a5c.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 4 SD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/152093
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="AR: BEIN SPORTS 5 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/440_5fcdb96eeeebecc6d51f2b5e27a468ba.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 5 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/440
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="AR: BEIN SPORTS 5 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/22223_59c1a33fefc30795578ace89bbed55f9.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 5 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/22223
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="AR: BEIN SPORTS 5 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/18353_e79ead1f6c596efe97c98701fd823e39.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 5 HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/18353
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="AR: BEIN SPORTS 5 SD" tvg-logo="http://img.lb-ss.com:80/images/tv/152094_6756d6f85708029ea767603d843f8e19.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 5 SD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/152094
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="AR: BEIN SPORTS 6 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/441_108eb1ed7677b4a74af406e69aeae123.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 6 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/441
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="AR: BEIN SPORTS 6 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/22224_87bff4d917e27fc476db4b3f6530041a.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 6 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/22224
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="AR: BEIN SPORTS 6 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/18352_4a83093914e07534607eaba32d88145c.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 6 HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/18352
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="AR: BEIN SPORTS 6 SD" tvg-logo="http://img.lb-ss.com:80/images/tv/152095_073b8b5d1308e03bcc2511bfb07498c0.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 6 SD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/152095
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="AR: BEIN SPORTS 7 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/442_165d5e4125a101172ae7935a4f38b294.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 7 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/442
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="AR: BEIN SPORTS 7 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/22225_7362ad2b8a8c2dd1430996a0b61f3ce3.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 7 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/22225
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="AR: BEIN SPORTS 7 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/18351_815793a47fd136b52a877eba9b210973.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 7 HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/18351
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="AR: BEIN SPORTS 7 SD" tvg-logo="http://img.lb-ss.com:80/images/tv/152096_4e3343eec8d72996f680438e28ef9cb7.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 7 SD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/152096
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/196459_4ff11b81373f646d4f15096a2c952170.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 8 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/196459
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/196460_4ff11b81373f646d4f15096a2c952170.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 8 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/196460
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/196461_4ff11b81373f646d4f15096a2c952170.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 8 HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/196461
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 8 SD" tvg-logo="http://img.lb-ss.com:80/images/tv/196462_4ff11b81373f646d4f15096a2c952170.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 8 SD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/196462
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9 UHD" tvg-logo="http://img.lb-ss.com:80/images/tv/196463_01b5614537b72ac55e3141efd4dc129a.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 9 UHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/196463
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/196464_01b5614537b72ac55e3141efd4dc129a.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 9 FHD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/196464
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/196465_01b5614537b72ac55e3141efd4dc129a.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 9 HD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/196465
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 9 SD" tvg-logo="http://img.lb-ss.com:80/images/tv/196466_01b5614537b72ac55e3141efd4dc129a.png" group-title="Arabic TV [رياضة][بين سبورت]",AR: BEIN SPORTS 9 SD
+http://app.iptv.bet:80/TIME17132133/yd9Aa53Z5q/196466
+
